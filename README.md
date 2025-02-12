@@ -14,13 +14,13 @@
 - **Mort** : Vous avez rencontré la tête de mort et retournez à la case 0.
 
 **Compilation et utilisation du programme** :
+
 **Compilation** : clang -std=c17 -Wall -Wfatal-errors jeudeloie.c -o jeudeloie -lm
 
 **Execution** : ./jeudeloie
 
 **Auteurs** :
-[Luu N. ]
-
+[Luu N.] , 
 [Mathieu J.](https://github.com/Zenomium)
 
 **Licence**
