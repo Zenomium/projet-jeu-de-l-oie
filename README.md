@@ -15,10 +15,12 @@
 
 **Compilation et utilisation du programme** :
 **Compilation** : clang -std=c17 -Wall -Wfatal-errors jeudeloie.c -o jeudeloie -lm
+
 **Execution** : ./jeudeloie
 
 **Auteurs** :
 [Luu N. ]
+
 [Mathieu J.](https://github.com/Zenomium)
 
 **Licence**
