@@ -20,7 +20,7 @@
 **Execution** : ./jeudeloie
 
 ## Auteurs :
-[Luu N.] , 
+[Luu N.](https://github.com/LuuNelson) , 
 [Mathieu J.](https://github.com/Zenomium)
 
 ## Licence :
